@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="60" viewBox="0 0 700 60">
+  <style>
+    .t { font: 600 26px 'Fira Code', Consolas, 'Courier New', monospace; fill: #24C6DC; }
+  </style>
+  <defs>
+    <clipPath id="c1"><rect x="0" y="0" height="60" width="0">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite"
+        values="0;700;700;0;0" keyTimes="0;0.1;0.18;0.2;1"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" height="60" width="0">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite"
+        values="0;0;700;700;0;0" keyTimes="0;0.2;0.3;0.38;0.4;1"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" height="60" width="0">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite"
+        values="0;0;700;700;0;0" keyTimes="0;0.4;0.5;0.58;0.6;1"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" height="60" width="0">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite"
+        values="0;0;700;700;0;0" keyTimes="0;0.6;0.7;0.78;0.8;1"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="0" height="60" width="0">
+      <animate attributeName="width" dur="15s" repeatCount="indefinite"
+        values="0;0;700;700;0" keyTimes="0;0.8;0.9;0.98;1"/></rect></clipPath>
+  </defs>
+  <text class="t" x="350" y="40" text-anchor="middle" clip-path="url(#c1)">Hi, I'm Siddharth Kumar Jha</text>
+  <text class="t" x="350" y="40" text-anchor="middle" clip-path="url(#c2)">&lt; Java Full Stack Developer /&gt;</text>
+  <text class="t" x="350" y="40" text-anchor="middle" clip-path="url(#c3)">Spring Boot + Angular Developer</text>
+  <text class="t" x="350" y="40" text-anchor="middle" clip-path="url(#c4)">Building REST APIs</text>
+  <text class="t" x="350" y="40" text-anchor="middle" clip-path="url(#c5)">Turning Ideas Into Applications</text>
+</svg>
