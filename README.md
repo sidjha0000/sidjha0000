@@ -1,184 +1,151 @@
-<!-- ===================== ANIMATED HEADER ===================== -->
+<!-- ===================== HEADER (BLACK) ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Siddharth%20Kumar%20Jha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20|%20Java%20Full%20Stack&descAlignY=60&descSize=22" width="100%"/>
-</p>
-
-<!-- ===================== BADGES ===================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Software%20Developer-24c6dc?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Company-LTM-302b63?style=for-the-badge&logo=briefcase&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Location-Bangalore,%20India-0f0c29?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:1f1f1f&height=240&section=header&text=Siddharth%20Kumar%20Jha&fontSize=55&fontColor=00E5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Java%20Full%20Stack&descAlignY=60&descSize=22&descColor=ffffff" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sidjha0000&label=Profile%20Views&color=24c6dc&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/sidjha0000?label=Followers&style=flat-square&color=302b63" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Software%20Developer-000000?style=for-the-badge&logo=openjdk&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/LTM-000000?style=for-the-badge&logo=briefcase&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/Bangalore,%20India-000000?style=for-the-badge&logo=googlemaps&logoColor=00E5FF"/>
+  <img src="https://komarev.com/ghpvc/?username=sidjha0000&label=Profile%20Views&color=000000&style=for-the-badge" alt="Profile views"/>
 </p>
 
 ---
 
-<!-- ===================== ABOUT ME (ANIMATED) ===================== -->
+<!-- ===================== ABOUT ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:302b63,100:24c6dc&height=55&text=About%20Me&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=60" width="45%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1f1f1f&height=60&text=About%20Me&fontSize=30&fontColor=00E5FF&animation=twinkling&fontAlignY=60" width="50%"/>
 </p>
 
-<table align="center">
-<tr>
-<td>
+<p align="center">
+  👋 Hi, I'm <b>Siddharth</b>, a <b>Software Developer at LTM</b> in Bangalore, India.<br/>
+  I build full stack web applications using <b>Java, Spring Boot, Angular & MySQL</b>.
+</p>
 
-👋 Hi, I'm **Siddharth Kumar Jha**, a **Software Developer at LTM** based in **Bangalore, India** 🇮🇳
+<details>
+<summary><b>⚡ Click to know more about me</b></summary>
+<br/>
 
-- 💼 Working full-time as a **Software Developer** at **LTM**
-- ☕ I specialise in **Java Full Stack Development**: Java • Spring Boot • Angular • MySQL
-- 🔥 I build **REST APIs**, responsive frontends and database-driven web applications
-- ⚙️ Hands-on with **CRUD, Pagination, Soft Delete, Validation, Routing & Authentication UI**
-- 🛠️ Familiar with **ITSM**: Incident Management, SLA, RCA
-- 🌱 Currently exploring **Microservices, Spring Security, JWT, Docker & CI/CD**
-- 🎓 B.E. in **Information Science & Engineering**
-- 📫 Reach me at **siddharthjha140804@gmail.com**
+- 💼 Software Developer at **LTM**
+- ☕ Java Full Stack: **Java • Spring Boot • Angular • MySQL**
+- 🔥 Building **REST APIs**, responsive UIs & database-driven apps
+- ⚙️ Hands-on with **CRUD, Pagination, Soft Delete, Validation & Routing**
+- 🌱 Exploring **Microservices, Spring Security, Docker & CI/CD**
+- 📫 **siddharthjha140804@gmail.com**
 
-</td>
-</tr>
-</table>
+</details>
 
 ---
 
-## ⚡ Tech Stack
+<!-- ===================== TECH STACK ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1f1f1f&height=60&text=Tech%20Stack&fontSize=30&fontColor=00E5FF&animation=twinkling&fontAlignY=60" width="50%"/>
+</p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,bootstrap&perline=8" alt="Frontend and Backend"/>
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,bootstrap&theme=dark&perline=8"/>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mysql,php,python,git,github,postman,vscode,idea&perline=8" alt="Database and Tools"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,php,python,git,github,postman,vscode,idea&theme=dark&perline=8"/>
 </p>
 
 ---
 
-## 🏗️ How I Build Full Stack Applications
-
-```mermaid
-flowchart LR
-    subgraph CLIENT["🖥️ Frontend - Angular"]
-        U[👤 User / Browser] --> C[🧩 Components]
-        C --> F[📝 Reactive Forms + Validation]
-        C --> R[🧭 Routing + Guards]
-        F --> S[🔌 Angular Services]
-        R --> S
-        S --> I[🛡️ HTTP Interceptor<br/>JWT Token]
-    end
-
-    subgraph SERVER["🍃 Backend - Spring Boot"]
-        SEC[🔐 Spring Security<br/>JWT Filter] --> CT[🎯 REST Controllers]
-        CT --> DTO[📦 DTO + Validation]
-        DTO --> SV[⚙️ Service Layer<br/>Business Logic]
-        SV --> EX[🚨 Global Exception Handler]
-        SV --> RP[📚 Spring Data JPA<br/>Repositories]
-    end
-
-    subgraph DATA["🗄️ Database"]
-        DB[(MySQL)]
-    end
-
-    I -->|HTTP / JSON| SEC
-    RP -->|Hibernate ORM| DB
-    DB -->|Entities| RP
-    CT -->|JSON Response| S
-```
-
+<!-- ===================== PROJECTS ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Layered%20Architecture-24c6dc?style=flat-square"/>
-  <img src="https://img.shields.io/badge/RESTful%20APIs-302b63?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Soft%20Delete-0f0c29?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Pagination-24c6dc?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Exception%20Handling-302b63?style=flat-square"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1f1f1f&height=60&text=Featured%20Projects&fontSize=30&fontColor=00E5FF&animation=twinkling&fontAlignY=60" width="50%"/>
 </p>
-
----
-
-## 🚀 Featured Projects
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🌱 <a href="https://github.com/sidjha0000/EcoGenius">EcoGenius</a></h3>
-      Smart eco-focused application built to promote sustainable, environment-friendly choices.
+      <h3>🌱 EcoGenius</h3>
+      AI-powered environmental assistant with air quality insights, nearby recycling centers, eco-friendly stores & sustainable transport options.
       <br/><br/>
-      <a href="https://github.com/sidjha0000/EcoGenius"><img src="https://img.shields.io/badge/View%20Project-24c6dc?style=flat-square&logo=github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <br/><br/>
+      <a href="https://github.com/sidjha0000/EcoGenius"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/sidjha0000/Awaz360">Awaz 360</a></h3>
-      All-in-one web platform project.
+      <h3>📢 Awaaz360</h3>
+      Web platform project.
       <br/><br/>
-      <a href="https://github.com/sidjha0000/Awaz360"><img src="https://img.shields.io/badge/View%20Project-24c6dc?style=flat-square&logo=github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <br/><br/>
+      <a href="https://github.com/sidjha0000/Awaaz360"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🎮 <a href="https://github.com/sidjha0000/GameZone">GameZone</a></h3>
-      Interactive browser games collection.
+      <h3>🎮 Game Zone</h3>
+      Collection of interactive browser games.
       <br/><br/>
-      <a href="https://github.com/sidjha0000/GameZone"><img src="https://img.shields.io/badge/View%20Project-24c6dc?style=flat-square&logo=github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=F7DF1E"/>
+      <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <br/><br/>
+      <a href="https://github.com/sidjha0000/game_zone"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/sidjha0000/MindSprint">MindSprint</a></h3>
-      Interactive web project built with HTML.
+      <h3>🍔 Food Website</h3>
+      Responsive food website with a clean, attractive UI.
       <br/><br/>
-      <a href="https://github.com/sidjha0000/MindSprint"><img src="https://img.shields.io/badge/View%20Project-24c6dc?style=flat-square&logo=github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=1572B6"/>
+      <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <br/><br/>
+      <a href="https://github.com/sidjha0000/Food-Website"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗳️ Online Voting</h3>
+      Voting app to cast votes, view real-time results & manage elections securely.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4"/>
+      <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
+      <br/><br/>
+      <a href="https://github.com/sidjha0000/Online-Voting"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 Attendance System</h3>
+      Faculty attendance system to mark attendance, generate reports & download records.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-000000?style=flat-square&logo=php&logoColor=777BB4"/>
+      <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=4479A1"/>
+      <br/><br/>
+      <a href="https://github.com/sidjha0000/Attendance-System"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center" valign="top">
-      <h3>❓ <a href="https://github.com/sidjha0000/Quiz-Application">Quiz Application</a></h3>
-      Quiz app with questions, scoring and instant results.
+      <h3>🧮 Simple Calculator</h3>
+      Calculator with memory to recall previous results.
       <br/><br/>
-      <a href="https://github.com/sidjha0000/Quiz-Application"><img src="https://img.shields.io/badge/View%20Project-24c6dc?style=flat-square&logo=github&logoColor=white"/></a>
+      <img src="https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5&logoColor=E34F26"/>
+      <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=1572B6"/>
+      <br/><br/>
+      <a href="https://github.com/sidjha0000/simple-calculator-"><img src="https://img.shields.io/badge/View%20Code-00E5FF?style=for-the-badge&logo=github&logoColor=000000"/></a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛤️ My Journey
-
-```mermaid
-flowchart TD
-    A["🏫 Class 10<br/>IHS Tufka, Samastipur, Bihar<br/>📊 85.4%"] --> B["📘 Class 12<br/>BRNKS College, Kalyanpur, Samastipur<br/>📊 80%"]
-    B --> C["🎓 B.E. Information Science & Engineering<br/>📊 CGPA 8.0"]
-    C --> D["💼 Software Developer @ LTM<br/>Bangalore, India"]
-    D --> E["🚀 Next: Microservices, Cloud & DevOps"]
-
-    style A fill:#0f0c29,stroke:#24c6dc,color:#ffffff
-    style B fill:#302b63,stroke:#24c6dc,color:#ffffff
-    style C fill:#24c6dc,stroke:#0f0c29,color:#0f0c29
-    style D fill:#302b63,stroke:#24c6dc,color:#ffffff
-    style E fill:#0f0c29,stroke:#24c6dc,color:#ffffff
-```
-
----
-
-## 🤝 Connect With Me
-
+<!-- ===================== CONNECT ===================== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/siddharth-kumar-jha-746a6227b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:siddharthjha140804@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/sidjha0000">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1f1f1f&height=60&text=Connect%20With%20Me&fontSize=30&fontColor=00E5FF&animation=twinkling&fontAlignY=60" width="50%"/>
 </p>
 
-<!-- ===================== ANIMATED FOOTER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+  <a href="https://www.linkedin.com/in/siddharth-kumar-jha-746a6227b"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="mailto:siddharthjha140804@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=D14836"/></a>
+  <a href="https://github.com/sidjha0000"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,50:111111,100:000000&height=120&section=footer" width="100%"/>
 </p>
