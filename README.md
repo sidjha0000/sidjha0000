@@ -3,11 +3,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Siddharth%20Kumar%20Jha&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Full%20Stack%20Developer%20|%20Spring%20Boot%20|%20Angular&descAlignY=60&descSize=20" width="100%"/>
 </p>
 
-<!-- ===================== TYPING ANIMATION ===================== -->
+<!-- ===================== ANIMATED TAGLINE ===================== -->
 <p align="center">
-  <a href="https://github.com/sidjha0000">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=24C6DC&center=true&vCenter=true&width=650&height=60&lines=Hi+👋+I'm+Siddharth+Kumar+Jha;Java+Full+Stack+Developer+☕;Spring+Boot+Developer+🍃;Angular+Developer+🅰️;Building+REST+APIs+🚀;Turning+Ideas+Into+Applications+💻" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=60&text=Turning%20Ideas%20Into%20Applications&fontSize=24&fontColor=24c6dc&animation=twinkling&fontAlignY=55" width="70%"/>
 </p>
 
 <!-- ===================== BADGES ===================== -->
@@ -17,23 +15,40 @@
   <img src="https://img.shields.io/badge/Open%20To-Learn%20%26%20Collaborate-success?style=for-the-badge" alt="Open to collaborate"/>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🏢%20Graduate%20Apprentice-LTIMindtree-0f0c29?style=for-the-badge&labelColor=24c6dc"/>
+  <img src="https://img.shields.io/badge/📍%20Location-India-0f0c29?style=for-the-badge&labelColor=302b63"/>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sidjha0000&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+```java
+public class Siddharth {
+
+    String name       = "Siddharth Kumar Jha";
+    String role       = "Graduate Apprentice @ LTIMindtree";
+    String focus      = "Java Full Stack Development";
+
+    String[] backend  = {"Java", "Spring Boot", "Spring Data JPA", "REST APIs"};
+    String[] frontend = {"Angular", "TypeScript", "HTML", "CSS", "Bootstrap"};
+    String[] database = {"MySQL"};
+    String[] learning = {"Microservices", "Spring Security", "JWT", "Docker", "CI/CD"};
+
+    String fuel       = "Chai ☕";
+
+    public String motto() {
+        return "Code. Debug. Learn. Repeat. 🚀";
+    }
+}
+```
 
 - 🏢 Currently working as **Graduate Apprentice @ LTIMindtree**
-- 💻 **Java Full Stack Developer**: Java • Spring Boot • Angular • MySQL
 - 🔥 I build **REST APIs**, responsive frontends and database-driven web apps
 - ⚙️ Hands-on with **CRUD, Pagination, Soft Delete, Form Validation & Routing**
-- 🌱 Currently learning **Microservices, Spring Security, JWT, Docker & CI/CD**
-- 🛠️ Also familiar with **ITSM concepts**: Incident Management, SLA, RCA
-- 📍 Based in **India** 🇮🇳
+- 🛠️ Familiar with **ITSM concepts**: Incident Management, SLA, RCA
 - 📫 Reach me at **siddharthjha140804@gmail.com**
-- ⚡ Fun fact: I debug better after a cup of chai ☕
-
-<br clear="right"/>
 
 ---
 
@@ -56,57 +71,73 @@
 
 ---
 
-## 📊 GitHub Analytics
+## 🏗️ How I Build Full Stack Apps
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sidjha0000&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="170" src="https://streak-stats.demolab.com?user=sidjha0000&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sidjha0000&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sidjha0000&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies"/>
-</p>
+```mermaid
+flowchart LR
+    A[👤 User] --> B[🅰️ Angular UI]
+    B -->|HTTP / JSON| C[🍃 Spring Boot REST API]
+    C --> D[⚙️ Service Layer]
+    D --> E[📦 Spring Data JPA]
+    E --> F[(🗄️ MySQL)]
+```
 
 ---
 
 ## 🚀 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/sidjha0000/Attendance-System">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidjha0000&repo=Attendance-System&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sidjha0000/Online-Voting">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidjha0000&repo=Online-Voting&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/sidjha0000/MindSprint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidjha0000&repo=MindSprint&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/sidjha0000/Food-Website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sidjha0000&repo=Food-Website&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗳️ <a href="https://github.com/sidjha0000/Online-Voting">Online Voting</a></h3>
+      Voting app where users cast votes, view real-time results and manage elections securely.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📋 <a href="https://github.com/sidjha0000/Attendance-System">Attendance System</a></h3>
+      Faculty attendance system to mark attendance, generate reports and download records.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧠 <a href="https://github.com/sidjha0000/MindSprint">MindSprint</a></h3>
+      Interactive web project built with HTML.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧮 <a href="https://github.com/sidjha0000/simple-calculator-">Simple Calculator</a></h3>
+      Calculator with memory that lets users recall previous results.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🐍 Contribution Snake
+## 🛤️ My Journey
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sidjha0000/sidjha0000/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sidjha0000/sidjha0000/output/github-contribution-grid-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sidjha0000/sidjha0000/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
+<details>
+<summary><b>👉 Click to expand</b></summary>
+<br/>
+
+| Stage | Milestone |
+|:--|:--|
+| 🎓 | Built web projects with PHP, HTML, CSS & MySQL |
+| ☕ | Learned Java, Spring Boot & Angular through Java Full Stack training |
+| 🏢 | Joined **LTIMindtree** as Graduate Apprentice |
+| 🛠️ | Explored ITSM: Incident Management, SLA & RCA |
+| 🚀 | Next: Microservices, Spring Security, Docker & CI/CD |
+
+</details>
 
 ---
 
@@ -124,9 +155,7 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+⭐;Let's+build+something+amazing+together+🚀" />
-</p>
+<p align="center"><b>⭐ Thanks for visiting! Let's build something amazing together 🚀</b></p>
 
 <!-- ===================== ANIMATED FOOTER ===================== -->
 <p align="center">
