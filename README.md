@@ -114,10 +114,10 @@ flowchart LR
       <a href="https://github.com/sidjha0000/EcoGenius"><img src="https://img.shields.io/badge/View%20Project-24c6dc?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
     <td width="50%" valign="top">
-      <h3>🏠 <a href="https://github.com/sidjha0000/Awash360">Awash 360</a></h3>
+      <h3>🏠 <a href="https://github.com/sidjha0000/Awaz360">Awaz 360</a></h3>
       All-in-one web platform project.
       <br/><br/>
-      <a href="https://github.com/sidjha0000/Awash360"><img src="https://img.shields.io/badge/View%20Project-24c6dc?style=flat-square&logo=github&logoColor=white"/></a>
+      <a href="https://github.com/sidjha0000/Awaz360"><img src="https://img.shields.io/badge/View%20Project-24c6dc?style=flat-square&logo=github&logoColor=white"/></a>
     </td>
   </tr>
   <tr>
